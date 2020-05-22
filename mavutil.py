@@ -1906,6 +1906,7 @@ mode_mapping_acm = {
     22 : 'FLOWHOLD',
     23 : 'FOLLOW',
     24 : 'ZIGZAG',
+	27 : '4DAUTO',
 }
 mode_mapping_rover = {
     0 : 'MANUAL',
